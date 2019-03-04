@@ -52,7 +52,8 @@ end
 
 def merge_data(one, two)
   two_new = two 
-  binding.pry
+  one.each do |key, value|
+    if 
   
 end 
 

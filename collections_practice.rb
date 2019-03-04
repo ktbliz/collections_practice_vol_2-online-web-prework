@@ -49,7 +49,7 @@ end
 
 
 def merge_data(one, two)
-  
+  new_array = []
   one.merge(two) 
   
 end 

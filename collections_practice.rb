@@ -49,10 +49,8 @@ end
 
 
 def merge_data(one, two)
-  new_array = []
-  new_array << one.flatten
-  new_array << two.flatten
-  new_array
+  two_new = two 
+  puts two_new
   
 end 
 

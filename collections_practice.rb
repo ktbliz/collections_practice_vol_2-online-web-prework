@@ -51,7 +51,7 @@ end
 
 
 def merge_data(one, two)
-  two_new = two 
+  new_array = []
   one.each do |key, value|
     if 
   

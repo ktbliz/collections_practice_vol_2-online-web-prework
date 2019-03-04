@@ -52,7 +52,7 @@ end
 
 def merge_data(one, two)
   two_new = two 
-  puts two_new
+  binding.pry
   
 end 
 

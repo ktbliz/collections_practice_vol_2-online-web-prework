@@ -1,3 +1,5 @@
+require "pry"
+
 def begins_with_r(array)
   new_array = []
   array.each do |element|
@@ -54,7 +56,7 @@ def merge_data(one, two)
   
 end 
 
-merge_data
+
 
 def find_cool
 

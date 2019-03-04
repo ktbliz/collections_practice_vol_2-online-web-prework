@@ -51,7 +51,7 @@ end
 def merge_data(one, two)
   
   one.each do |x|
-    
+  end  
   
 end 
 

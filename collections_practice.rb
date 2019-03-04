@@ -54,6 +54,7 @@ def merge_data(one, two)
   
 end 
 
+merge_data
 
 def find_cool
 
